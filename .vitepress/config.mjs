@@ -29,9 +29,8 @@ export default defineConfig({
         text: '💨 呼吸与供氧',
         items: [
           { text: '制氧机系列', link: '/zyj' },
-          { text: '雾化器系列', link: '/whq' }
+          { text: '雾化器系列', link: '/whq' },
           { text: '呼吸机系列', link: '/hxj' }
-          
         ]
       },
       {
