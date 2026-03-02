@@ -11,7 +11,7 @@ export default defineConfig({
     // 🌐 顶部导航栏
     nav: [
       { text: '首页 (Home)', link: '/' },
-      { text: '产品手册 (Docs)', link: '/' },
+      { text: '产品手册 (Docs)', link: '/scsm' },
       { text: '门店反馈 (Support)', link: '/feedback' }
     ],
 
