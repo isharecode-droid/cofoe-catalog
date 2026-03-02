@@ -20,7 +20,7 @@ export default defineConfig({
       {
         text: '🩺 核心监测设备',
         items: [
-          { text: '血压计系列', link: '/products/blood-pressure' },
+          { text: '血压计系列', link: '/xyj' },
           { text: '血糖仪系列', link: '/products/blood-glucose' },
           { text: '体温计系列', link: '/products/thermometer' }
         ]
