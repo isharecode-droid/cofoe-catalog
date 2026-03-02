@@ -4,7 +4,7 @@ export default defineConfig({
   // 🛡️ 核心防爆盾：允许空链接不报错，即使还没建网页，网站也能正常访问！
   ignoreDeadLinks: true, 
   
-  title: "Cofoe Hub （可孚中心）", 
+  title: "Cofoe Hub （益丰专版）", 
   description: "可孚门店战术目录与产品手册",
   
   themeConfig: {
