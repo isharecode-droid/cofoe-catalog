@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 🚀 开启产品大纲
-      link: /products/blood-pressure
+      link: /scsm
     - theme: alt
       text: 🛠️ 门店异常与缺货上报
       link: /feedback
