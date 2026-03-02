@@ -36,6 +36,6 @@
 
 您可以随时点击左侧的菜单栏进行精准查找，也可以直接点击下方链接进入对应的战术主页：
 
-* 🩺 **核心监测设备**：[血压计系列](/products/blood-pressure) | [血糖仪系列](/products/blood-glucose) | [体温计系列](/products/thermometer)
-* 💨 **呼吸与供氧设备**：[制氧机系列](/products/oxygen) | [雾化器系列](/products/nebulizer)
-* 🦽 **康复与护理用具**：[轮椅系列](/products/wheelchair) | [坐厕椅系列](/products/commode-chair) | [耗材与小件](/products/consumables)
+* 🩺 **核心监测设备**：[血压计系列](/xyj) | [血糖仪系列](/xty) | [体温计系列](/twj)twj)
+* 💨 **呼吸与供氧设备**：[制氧机系列](/zyj) | [雾化器系列](/whq)
+* 🦽 **康复与护理用具**：[轮椅系列](/ly) | [坐厕椅系列](/zcy) | [耗材与小件](/hc)
