@@ -22,23 +22,23 @@ export default defineConfig({
         items: [
           { text: '血压计系列', link: '/xyj' },
           { text: '血糖仪系列', link: '/xty' },
-          { text: '体温计系列', link: '/products/thermometer' }
+          { text: '体温计系列', link: '/twj' }
         ]
       },
       {
         text: '💨 呼吸与供氧',
         items: [
-          { text: '制氧机系列', link: '/products/oxygen' },
-          { text: '雾化器系列', link: '/products/nebulizer' }
+          { text: '制氧机系列', link: '/zyj' },
+          { text: '雾化器系列', link: '/whq' }
         ]
       },
       {
         text: '🦽 康复与护理',
         items: [
-          { text: '轮椅系列', link: '/products/wheelchair' },
-          { text: '坐厕椅系列', link: '/products/commode-chair' },
-          { text: '护具系列', link: '/products/protective-gear' },
-          { text: '耗材与护理小件', link: '/products/consumables' }
+          { text: '轮椅系列', link: '/ly' },
+          { text: '坐厕椅系列', link: '/zcy' },
+          { text: '护具系列', link: '/hj' },
+          { text: '耗材与护理小件', link: '/hc' }
         ]
       },
       {
