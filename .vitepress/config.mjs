@@ -7,8 +7,28 @@ export default defineConfig({
   title: "Cofoe Hub （益丰专版）", 
   description: "可孚门店战术目录与产品手册",
   
+    // 👇 1. 注入 CSS 魔法，强制放大所有菜单字体
+  head: [
+    ['style', {}, `
+      /* 左侧大类标题（如：呼吸与供氧）放大加粗 */
+      .VPSidebarItem.level-0 > .item > .text { font-size: 18px !important; font-weight: 800 !important; }
+      /* 左侧具体产品（如：制氧机系列）放大 */
+      .VPSidebarItem.level-1 > .item > .text { font-size: 16px !important; }
+      /* 手机端弹出的菜单文字放大 */
+      .VPNavScreenMenu { font-size: 18px !important; }
+    `]
+  ],
+
+  
   themeConfig: {
     // 🌐 顶部导航栏
+
+    // 👇 2. 把英文 Menu 汉化，并加上显眼的图标
+    sidebarMenuLabel: '📑 菜单',
+    returnToTopLabel: '⬆️ 返回顶部',
+    outlineTitle: '📍 本页话术目录',
+    darkModeSwitchLabel: '🌗 切换日夜模式',
+
     nav: [
       { text: '首页 (Home)', link: '/' },
       { text: '产品手册 (Docs)', link: '/scsm' },
