@@ -17,6 +17,8 @@ export default defineConfig({
       /* 手机端弹出的菜单文字放大 */
       .VPNavScreenMenu { font-size: 18px !important; }
     `]
+    // 👇 就在下面加这一行！这就是 Vercount 的统计芯片
+    ['script', { defer: true, src: 'https://cn.vercount.one/js' }]
   ],
 
   
