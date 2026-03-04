@@ -11,7 +11,7 @@
 :::
 
 ![可孚红外线耳温枪](https://cofoe-yifeng-img.oss-cn-shenzhen.aliyuncs.com/TWJ17B.jpeg)
-![可孚红外线额温枪](https://cofoe-yifeng-img.oss-cn-shenzhen.aliyuncs.com/TWJ009.jpeg)
+![可孚红外线额温枪](https://cofoe-yifeng-img.oss-cn-shenzhen.aliyuncs.com/TWJ09.jpeg)
 
 ### 📊 核心参数与规格
 * **商品编码 (SKU)**：耳温枪、额温枪
