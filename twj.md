@@ -10,7 +10,8 @@
 **极速出值，非接触更卫生！** 高精度探头，不仅能测体温，还能测奶温、水温，宝宝睡着了也能悄悄测，完全不打扰！
 :::
 
-![可孚红外线额/耳温枪](https://cofoe-yifeng-img.oss-cn-shenzhen.aliyuncs.com/TWJ17B.jpeg)(https://cofoe-yifeng-img.oss-cn-shenzhen.aliyuncs.com/TWJ009.jpeg)
+![可孚红外线耳温枪](https://cofoe-yifeng-img.oss-cn-shenzhen.aliyuncs.com/TWJ17B.jpeg)
+![可孚红外线额温枪](https://cofoe-yifeng-img.oss-cn-shenzhen.aliyuncs.com/TWJ009.jpeg)
 
 ### 📊 核心参数与规格
 * **商品编码 (SKU)**：耳温枪、额温枪
