@@ -16,8 +16,8 @@ hero:
       text: 🛠️ 门店异常与缺货上报
       link: /feedback
     - theme: alt
-      text: 提交售后单
-      link: /feedback/
+      text: 🛠️ 售后服务中心
+      link: /feedback
 
 
 
@@ -28,10 +28,6 @@ features:
     details: 梳理无菌敷料、蒸汽眼罩、护具等日常高频耗材的搭售场景，帮您轻松提升客单价。
   - title: ⚠️ 售后排雷手册 (After-sales)
     details: 汇总常见客诉（如屏幕报错、语音无声、测量不准等），让店长快速识别并解决问题，大幅降低退换货率。
-  - title: 🛠️售后服务中心
-    details: 遇到产品故障？扫码进入售后群，或查看自动化排雷手册。
-    link: /guide/after-sales  # 指向您的售后详细页
-
 ---
 
 <style>
