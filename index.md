@@ -4,7 +4,10 @@ layout: home
 hero:
   name: "可孚门店战术大屏"
   text: "全品类医疗器械销售与服务终端"
+  name:  “售后战术中心”
+  text:  “极速 · 专业 · 自动化”
   tagline: "提升专业度，赋能终端销售，一站式解决店长日常开单、连带搭售与售后排雷难题。"
+
   actions:
     - theme: brand
       text: 🚀 开启产品大纲
@@ -12,6 +15,11 @@ hero:
     - theme: alt
       text: 🛠️ 门店异常与缺货上报
       link: /feedback
+    - theme: alt
+      text: 提交售后单
+      link: /feedback/
+
+
 
 features:
   - title: 🩺 核心医疗器械 (Core)
@@ -20,6 +28,10 @@ features:
     details: 梳理无菌敷料、蒸汽眼罩、护具等日常高频耗材的搭售场景，帮您轻松提升客单价。
   - title: ⚠️ 售后排雷手册 (After-sales)
     details: 汇总常见客诉（如屏幕报错、语音无声、测量不准等），让店长快速识别并解决问题，大幅降低退换货率。
+  - title: 🛠️售后服务中心
+    details: 遇到产品故障？扫码进入售后群，或查看自动化排雷手册。
+    link: /guide/after-sales  # 指向您的售后详细页
+
 ---
 
 <style>
