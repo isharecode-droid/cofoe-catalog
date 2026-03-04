@@ -10,7 +10,7 @@
 **出雾细腻直达肺泡，医院同款压缩技术！** 纯铜无油压缩机，动力强劲寿命长，雾化颗粒细腻均匀，孩子吸着不呛嗓，吸收效果极佳。
 :::
 
-![可孚雾化器08](https://cofoe-yifeng-img.oss-cn-shenzhen.aliyuncs.com/WHQ08jpeg)
+![可孚雾化器08](https://cofoe-yifeng-img.oss-cn-shenzhen.aliyuncs.com/WHQ08.png)
 
 ### 📊 核心参数与规格
 * **商品编码 (SKU)**：KF-WHQ-08
