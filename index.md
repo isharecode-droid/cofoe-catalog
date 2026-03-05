@@ -15,7 +15,7 @@ hero:
       link: /feedback
     - theme: alt
       text: ‼️紧急客诉
-      link: /feedback
+      link: /urgent
 
 
 
