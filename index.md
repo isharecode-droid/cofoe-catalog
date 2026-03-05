@@ -14,7 +14,7 @@ hero:
       text: 🛠️ 门店异常与缺货上报
       link: /feedback
     - theme: alt
-      text: 🛠️ 售后服务中心
+      text: ‼️紧急客诉
       link: /feedback
 
 
