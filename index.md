@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: 🚀 开启产品大纲
       link: /scsm
+    - theme: brand
+      text: 销售与利润武装
+      link: /
     - theme: alt
       text: 🛠️ 门店异常与缺货上报
       link: /feedback
