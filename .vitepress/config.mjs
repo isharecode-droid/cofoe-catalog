@@ -72,11 +72,12 @@ export default defineConfig({
            { text: '💊 联合用药关联推荐', link: '/cross-selling' }
         ]
       },
-      {
-         text: '🚨 紧急客诉与售后', // 防御模块放下面
+        {
+         text: '🚨 紧急客诉与售后 ',
          items: [
-           { text: '异常客诉上报通道', link: '/urgent' },
-      // 您之前写的其他售后页面...
+           { text: '🛠️ 高频故障秒查 (店员自查)', link: '/troubleshooting' },
+           { text: '📦 售后/退换货标准判定', link: '/return-policy' },
+           { text: '🆘 异常客诉一键上报通道', link: '/urgent' }
         ]
       },
       {
