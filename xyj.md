@@ -13,7 +13,7 @@
 ![可孚KF-65B血压计](https://cofoe-yifeng-img.oss-cn-shenzhen.aliyuncs.com/XYJ65S.png)
 
 ### 📊 核心参数与规格
-* **商品编码 (SKU)**：<Badge type="info" text="5049171" />
+* **商品编码 (SKU)**：<span style="font-size: 22px; font-weight: bold; color: #10b981; letter-spacing: 1px;">5049171</span>
 * **测量方式**：上臂式（示波测定法，符合医疗级精准度标准）
 * **屏幕显示**：LCD 柔光大屏，超大字体显示
 * **记忆组数**：双人 2 × 192 组超大记忆（爸妈分别记录，互不干扰，方便复诊）
