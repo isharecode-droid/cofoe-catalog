@@ -65,6 +65,21 @@ export default defineConfig({
         ]
       },
       {
+         text: '💰 销售与利润武装', // 进攻模块放在最上面，店员最爱看
+         items: [
+           { text: '🔥 高毛利一句话话术', link: '/sales-pitch' },
+           { text: '⚔️ 竞品优劣势终极对比', link: '/comparison' },
+           { text: '💊 联合用药关联推荐', link: '/cross-selling' }
+        ]
+      },
+      {
+         text: '🚨 紧急客诉与售后', // 防御模块放下面
+         items: [
+           { text: '异常客诉上报通道', link: '/urgent' },
+      // 您之前写的其他售后页面...
+        ]
+      }
+      {
         text: '🛠️ 门店工具箱',
         items: [
           { text: '缺货与异常反馈', link: '/feedback' }
