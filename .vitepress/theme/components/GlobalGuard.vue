@@ -17,12 +17,12 @@ onMounted(() => {
 
 // 验证密码逻辑
 const check = () => {
-  if (password.value === '') { // ⚠️ 这里修改为您想要的真实密码
+  if (password.value === '301087') { // ⚠️ 这里修改为您想要的真实密码
     sessionStorage.setItem('yifeng_auth', 'true') // 记录登录状态
     isAuth.value = true
   } else {
     alert('密码错误，请联系总部获取最新通行码')
-    password.value = '301087' // 清空输入框
+    password.value = '' // 清空输入框
   }
 }
 </script>
