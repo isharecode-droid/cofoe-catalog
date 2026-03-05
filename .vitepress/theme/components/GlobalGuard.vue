@@ -14,7 +14,7 @@ onMounted(() => {
 })
 
 const check = () => {
-  if (password.value === '123456') { // ⚠️ 记得改回您的真实密码
+  if (password.value === '301087') { // ⚠️ 记得改回您的真实密码
     sessionStorage.setItem('yifeng_auth', 'true')
     isAuth.value = true
   } else {
