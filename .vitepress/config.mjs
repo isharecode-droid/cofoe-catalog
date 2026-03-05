@@ -9,6 +9,7 @@ export default defineConfig({
   
     // 👇 1. 注入 CSS 魔法，强制放大所有菜单字体
   head: [
+    ['meta', { name: 'robots', content: 'noindex, nofollow' }]
     ['style', {}, `
       /* 左侧大类标题（如：呼吸与供氧）放大加粗 */
       .VPSidebarItem.level-0 > .item > .text { font-size: 18px !important; font-weight: 800 !important; }
