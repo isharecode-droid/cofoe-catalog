@@ -12,7 +12,7 @@ hero:
       link: /scsm
     - theme: brand
       text: 销售与利润武装
-      link: /
+      link: /sales-index
     - theme: alt
       text: 🛠️ 门店异常与缺货上报
       link: /feedback
