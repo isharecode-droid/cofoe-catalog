@@ -13,8 +13,9 @@
 ![可孚KF-65B血压计](https://cofoe-yifeng-img.oss-cn-shenzhen.aliyuncs.com/XYJ65S.png)
 
 ### 📊 核心参数与规格
-  ```markdown 
-* **商品编码 (SKU)**：`5049171`
+*
+  ```  markdown 
+ **商品编码 (SKU)**：`5049171`
   ```
 * **测量方式**：上臂式（示波测定法，符合医疗级精准度标准）
 * **屏幕显示**：LCD 柔光大屏，超大字体显示
