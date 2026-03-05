@@ -33,6 +33,7 @@ export default defineConfig({
     nav: [
       { text: '首页 (Home)', link: '/' },
       { text: '产品手册 (Docs)', link: '/scsm' },
+      { text: '🔥销售与利润武装(DS&P Arm)', link: '/sales-index' },
       { text: '‼️紧急客诉 (UCC)', link: '/urgent' },
       { text: '门店反馈 (Support)', link: '/feedback' }
     ],
