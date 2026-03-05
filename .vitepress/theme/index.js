@@ -1,9 +1,10 @@
+// .vitepress/theme/index.js
 import DefaultTheme from 'vitepress/theme'
-// 导入我们刚才定义的全局防护组件
 import GlobalGuard from './components/GlobalGuard.vue'
 
 export default {
+  // 继承默认主题的所有配置（保持原有样式不变）
   extends: DefaultTheme,
-  // 使用 Layout 插槽，将 DefaultTheme 的所有页面包裹在 GlobalGuard 之下
+  // 用我们的防盗门组件替换掉原本的全局布局
   Layout: GlobalGuard 
 }
