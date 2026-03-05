@@ -78,7 +78,7 @@ export default defineConfig({
            { text: '异常客诉上报通道', link: '/urgent' },
       // 您之前写的其他售后页面...
         ]
-      }
+      },
       {
         text: '🛠️ 门店工具箱',
         items: [
