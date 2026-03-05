@@ -1,5 +1,5 @@
 // .vitepress/theme/index.js
-import DefaultTheme from '.vitepress/theme'
+import DefaultTheme from 'vitepress/theme'
 import GlobalGuard from './components/GlobalGuard.vue'
 
 export default {
