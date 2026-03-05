@@ -30,7 +30,7 @@ const check = () => {
 <template>
   <div v-if="!isAuth" class="guard-container">
     <div class="login-box">
-      <h2 style="margin-bottom: 10px;">益丰售后战术中心</h2>
+      <h2 style="margin-bottom: 16px;">可孚益丰门店战术大屏</h2>
       <p style="color: #666; font-size: 14px;">内部专网，请输入通行码</p>
       
       <input 
