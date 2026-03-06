@@ -1,6 +1,6 @@
 # 🩸 档案库：可孚 TGU330-C 血糖尿酸二合一测试仪
 
-##![可孚 TGU300-C 包装展示](/https://cofoe-yifeng-img.oss-cn-shenzhen.aliyuncs.com/tgi300.png) 
+![可孚 TGU300-C 包装展示](/https://cofoe-yifeng-img.oss-cn-shenzhen.aliyuncs.com/tgi300.png) 
 
 
 【可孚 TGU300-C】是门店慢病管理品类中的核心高毛利单品。该设备具备国家医疗器械认证，主打“一机双测、精准抗干扰、适老化设计”，是满足“双高”人群居家监测需求的顶级硬件。
