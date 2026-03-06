@@ -1,4 +1,4 @@
-# 🩸 档案库：可孚 TGU330-C 血糖尿酸二合一测试仪
+# 🩸 档案库：可孚 TGU300-C 血糖尿酸二合一测试仪
 
 ![可孚 TGU300-C 包装展示](/https://cofoe-yifeng-img.oss-cn-shenzhen.aliyuncs.com/tgu300-c.png) 
 
