@@ -43,6 +43,7 @@ export default defineConfig({
       {
         text: '🩺 核心监测设备',
         items: [
+          { text: '🩸 TGU330-C 二合一测试仪', link: '/tgu330-c-intro' },
           { text: '血压计系列', link: '/xyj' },
           { text: '血糖仪系列', link: '/xty' },
           { text: '体温计系列', link: '/twj' }
@@ -68,6 +69,7 @@ export default defineConfig({
       {
          text: '💰 销售与利润武装', // 进攻模块放在最上面，店员最爱看
          items: [
+           { text: '🎯 二合一逼单与实操全案', link: '/tgu330-c-sales' },
            { text: '🏆 绝密：二合一会销爆单手册', link: '/conference-sales' },
            { text: '🔥 高毛利一句话话术', link: '/sales-pitch' },
            { text: '⚔️ 竞品优劣势终极对比', link: '/comparison' },
