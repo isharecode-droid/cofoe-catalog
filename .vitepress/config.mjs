@@ -68,6 +68,7 @@ export default defineConfig({
       {
          text: '💰 销售与利润武装', // 进攻模块放在最上面，店员最爱看
          items: [
+           { text: '🏆 绝密：二合一会销爆单手册', link: '/conference-sales' },
            { text: '🔥 高毛利一句话话术', link: '/sales-pitch' },
            { text: '⚔️ 竞品优劣势终极对比', link: '/comparison' },
            { text: '💊 联合用药关联推荐', link: '/cross-selling' }
