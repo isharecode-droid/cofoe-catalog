@@ -4,10 +4,10 @@ export default defineConfig({
   // 🛡️ 核心防爆盾：允许空链接不报错，即使还没建网页，网站也能正常访问！
   ignoreDeadLinks: true, 
   
-  title: "Cofoe Hub （益丰专版）", 
+  title: "Cofoe Hub", 
   description: "可孚门店战术目录与产品手册",
   
-    // 👇 1. 注入 CSS 魔法，强制放大所有菜单字体
+  // 👇 1. 注入 CSS 魔法：强制放大菜单字体 + 强制顶部导航栏绝对固定吸顶！
   head: [
     ['meta', { name: 'robots', content: 'noindex, nofollow' }],
     ['style', {}, `
@@ -17,12 +17,30 @@ export default defineConfig({
       .VPSidebarItem.level-1 > .item > .text { font-size: 16px !important; }
       /* 手机端弹出的菜单文字放大 */
       .VPNavScreenMenu { font-size: 18px !important; }
+      
+      /* 🚀 新增：强制顶部导航栏绝对固定，永不消失！ */
+      .VPNav {
+        position: fixed !important;
+        top: 0 !important;
+        width: 100% !important;
+        z-index: 1000 !important;
+        /* 添加一点高级的毛玻璃质感，让它更像一个原生 App */
+        background-color: rgba(255, 255, 255, 0.85) !important;
+        backdrop-filter: blur(10px) !important;
+        -webkit-backdrop-filter: blur(10px) !important;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.05) !important;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05) !important;
+      }
+      /* 调整主体内容区域的顶部间距，防止被固定的导航栏遮挡文字 */
+      .VPContent {
+        padding-top: 64px !important; 
+      }
     `]
   ],
 
-  
   themeConfig: {
-    // 🌐 顶部导航栏
+    // 🌐 顶部左侧专属标识 (益丰专版栏)
+    siteTitle: '🔥 益丰战区专版', 
 
     // 👇 2. 把英文 Menu 汉化，并加上显眼的图标
     sidebarMenuLabel: '📑 菜单',
@@ -30,6 +48,7 @@ export default defineConfig({
     outlineTitle: '📍 本页话术目录',
     darkModeSwitchLabel: '🌗 切换日夜模式',
 
+    // 🌐 顶部右侧固定菜单栏 (Nav)
     nav: [
       { text: '首页 (Home)', link: '/' },
       { text: '产品手册 (Docs)', link: '/scsm' },
