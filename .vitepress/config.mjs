@@ -43,7 +43,7 @@ export default defineConfig({
       {
         text: '🩺 核心监测设备',
         items: [
-          { text: '🩸 TGU330-C 二合一测试仪', link: '/tgu330-c-intro' },
+          { text: '🩸 TGU300-C 二合一测试仪', link: '/tgu330-c-intro' },
           { text: '血压计系列', link: '/xyj' },
           { text: '血糖仪系列', link: '/xty' },
           { text: '体温计系列', link: '/twj' }
