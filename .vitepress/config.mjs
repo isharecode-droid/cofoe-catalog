@@ -68,7 +68,6 @@ export default defineConfig({
           { text: 'jrwd301u', link: '/jrwd301u' }
           { text: 'JRWD6012X', link: '/JRWD6012X' },
           { text: 'jrwd301u', link: '/jrwd301u' }
-          
         ]
       },
       {
