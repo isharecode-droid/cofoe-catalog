@@ -62,6 +62,46 @@ export default defineConfig({
         items: [
           { text: 'JRWD6012X', link: '/JRWD6012X' },
           { text: 'jrwd301u', link: '/jrwd301u' }
+          { text: 'JRWD6012X', link: '/JRWD6012X' },
+          { text: 'jrwd301u', link: '/jrwd301u' }
+          { text: 'JRWD6012X', link: '/JRWD6012X' },
+          { text: 'jrwd301u', link: '/jrwd301u' }
+          { text: 'JRWD6012X', link: '/JRWD6012X' },
+          { text: 'jrwd301u', link: '/jrwd301u' }
+          
+        ]
+      },
+      {
+        text: '🦽 坐厕椅',
+        items: [
+          { text: 'KFZC065', link: '/ly' },
+          { text: 'KFZC0810', link: '/zcy' },
+          { text: 'KFZC0920', link: '/hj' },
+          { text: 'KFZC098', link: '/zcy' },
+          { text: 'KFZC097', link: '/hj' },
+          { text: 'KFZC017', link: '/hc' }
+        ]
+      },
+      {
+        text: '🦽 助行器',
+        items: [
+          { text: 'KFZC065', link: '/ly' },
+          { text: 'KFZC0810', link: '/zcy' },
+          { text: 'KFZC0920', link: '/hj' },
+          { text: 'KFZC098', link: '/zcy' },
+          { text: 'KFZC097', link: '/hj' },
+          { text: 'KFZC017', link: '/hc' }
+        ]
+      },
+      {
+        text: '手杖/腋下拐',
+        items: [
+          { text: 'KFGZ002', link: '/ly' },
+          { text: 'KFGZ003', link: '/zcy' },
+          { text: 'KFZC0920', link: '/hj' },
+          { text: 'KFZC098', link: '/zcy' },
+          { text: 'KFZC097', link: '/hj' },
+          { text: 'KFZC017', link: '/hc' }
         ]
       },
       {
