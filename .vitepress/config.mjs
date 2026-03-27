@@ -60,7 +60,8 @@ export default defineConfig({
       {
         text: '🦽 轮椅',
         items: [
-          { text: 'JRWD6012X', link: '/JRWD6012X' }
+          { text: 'JRWD6012X', link: '/JRWD6012X' },
+          { text: 'jrwd301u', link: '/jrwd301u' }
         ]
       },
       {
