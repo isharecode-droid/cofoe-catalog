@@ -58,6 +58,12 @@ export default defineConfig({
         ]
       },
       {
+        text: '🦽 轮椅',
+        items: [
+          { text: 'JRWD6012X', link: '/JRWD6012X' }
+        ]
+      },
+      {
         text: '🦽 康复与护理',
         items: [
           { text: '轮椅系列', link: '/ly' },
